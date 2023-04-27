@@ -1,6 +1,6 @@
 In this repo, we distill the powerful [segment anything](https://github.com/facebookresearch/segment-anything) models into lightweight [yoso](https://github.com/hujiecpp/YOSO) models for efficient image segmentation (yoso is a framework aiming to achieve real-time panoptic segmentation).
 Specifically, we replace the heavy ViT image encoder with yoso image encoder.
-This provides over 10 times speed up for extracting image features with a single RTX 3090 GPU.
+This provides over 10 times speedup for extracting image features with a single RTX 3090 GPU.
 Currently, we release demo checkpoints here, and will update them when we obtain more accurate ones.
 
 
