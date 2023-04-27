@@ -25,7 +25,7 @@ pip install opencv-python pycocotools matplotlib
 ```
 
 ### Checkpoints
-- 2023/04/27: [sam_yoso_r50_13a999.pth]()
+- 2023/04/27: [sam_yoso_r50_13a999.pth](https://github.com/hujiecpp/Mini-Segment-Anything/releases/download/checkpoint/sam_yoso_r50_13a999.pth)
 
 
 ### Demos
